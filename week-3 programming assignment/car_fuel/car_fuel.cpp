@@ -43,7 +43,7 @@ int minRefills(int n, vector<int> x, int dist_with_full_tank)
     return numRefills;
 }
 
-main()
+int main()
 {
     int n = 0;
     vector<int> x;
